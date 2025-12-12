@@ -11,7 +11,7 @@
 
 ## **Professional Summary**
 
-Business Analyst & Data Engineer with multidisciplinary experience across Real Estate, IT Infrastructure, and Academia. Skilled in Python, SQL, Automation, Data Visualization, and Process Optimization. Proven track record of supporting CXO-level strategic initiatives, managing business operations, and delivering data-driven insights. Previously worked in enterprise IT environments (Microsoft Exchange, Cisco IronPort, Menlo Security) with hands-on experience in automation and workflow management.
+Business Analyst & Data Engineer with multidisciplinary experience across Real Estate, IT Infrastructure, and Academia. Skilled in Python, SQL, Automation, Data Visualization, and Process Optimization. Proven track record of supporting CEO-level strategic initiatives, managing business operations, and delivering data-driven insights. Previously worked in enterprise IT environments (Microsoft Exchange, Cisco IronPort, Menlo Security) with hands-on experience in automation and workflow management.
 
 ---
 
