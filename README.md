@@ -26,9 +26,8 @@ Business Analyst & Data Engineer with multidisciplinary experience across Real E
 
 ## **Professional Experience**
 
-### **Business Analyst & Data Engineer — CEO’s Office**
-
-**Real Estate ICP Firm, Navi Mumbai**
+**Business Analyst & Data Engineer — CEO’s Office
+SV Incorporation (Real Estate ICP Firm)**
 **July 2025 – Present**
 
 * Supporting CEO’s Office with business analysis, strategic planning, and data-driven decision-making.
