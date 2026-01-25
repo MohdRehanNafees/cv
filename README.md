@@ -1,6 +1,7 @@
 # Mohd Rehan Nafees
 
-**Business Analyst & Data Engineer | CEO’s Office**
+**BUSINESS & DATA ANALYST | DRIVING
+STRATEGY & DATA INSIGHTS (CEO’S OFFICE)**
 📍 Navi Mumbai, India
 📞 +91-8887529428
 📧 rehannafees1252@gmail.com
@@ -11,7 +12,17 @@
 
 ## **Professional Summary**
 
-Business Analyst & Data Engineer with multidisciplinary experience across Real Estate, IT Infrastructure, and Academia. Skilled in Python, SQL, Automation, Data Visualization, and Process Optimization. Proven track record of supporting CEO-level strategic initiatives, managing business operations, and delivering data-driven insights. Previously worked in enterprise IT environments (Microsoft Exchange, Cisco IronPort, Menlo Security) with hands-on experience in automation and workflow management.
+Business Analyst & Data Analyst with multidisciplinary experience across Real Estate, IT
+Infrastructure, and Academia. Skilled in Python, SQL, automation, data visualization,
+and process optimization, with a strong focus on driving business efficiency and
+informed decision-making. Proven track record of supporting CEO-level strategic
+initiatives, managing cross-functional operations, and delivering actionable, data-driven
+insights.
+Brings prior experience in enterprise IT environments, including Microsoft Exchange,
+Cisco IronPort, and Menlo Security, enabling a strong understanding of technical
+systems alongside business workflows. Known for translating complex requirements
+into structured solutions, improving reporting frameworks, and enabling leadership
+through clear, insight-backed recommendations.
 
 ---
 
