@@ -23,7 +23,6 @@ Cisco IronPort, and Menlo Security, enabling a strong understanding of technical
 systems alongside business workflows. Known for translating complex requirements
 into structured solutions, improving reporting frameworks, and enabling leadership
 through clear, insight-backed recommendations.
-
 ---
 
 ## **Core Skills**
