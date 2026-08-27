@@ -1,6 +1,6 @@
 # Mohd Rehan Nafees
 
-## BUSINESS ANALYST | DATA ANALYST | BUSINESS AUTOMATION SPECIALIST
+## BUSINESS OPERATIONS ANALYST | CRM & BUSINESS AUTOMATION | DATA & REPORTING
 
 📍 Navi Mumbai, India  
 📞 +91-8887529428  
@@ -11,27 +11,27 @@
 
 # Professional Summary
 
-Business Analyst and Data Analyst with experience across Real Estate Operations, Enterprise IT Infrastructure, and Academia. Skilled in SQL, Python, Power BI, Google Workspace Automation, Business Process Optimization, and Data-Driven Decision Making.
+Business Operations and Automation professional with experience across Real Estate Operations and Enterprise IT Infrastructure. Skilled in SQL, Advanced Google Sheets, Google Apps Script, CRM workflow design, reporting, process optimization, and operational analytics.
 
-Currently working with CEO’s Office at SV Incorporation, driving operational improvements through automation, reporting frameworks, CRM process design, and business analytics.
+Currently working with the CEO’s Office at SV Incorporation, where I work on business processes, lead-management systems, CRM workflows, reporting, and automation to improve operational visibility and reduce manual work.
 
-Experienced in translating business requirements into structured solutions by combining technical understanding with operational workflows. Strong background in enterprise IT environments including Microsoft Exchange Server, Cisco IronPort, and Menlo Security, along with hands-on experience building internal automation systems using Google Sheets, Apps Script, SQL, and analytics tools.
+Experienced in connecting business requirements with practical technical solutions by structuring data, improving workflows, automating repetitive processes, and building management reporting systems.
 
 ---
 
 # Core Skills
 
-## Data & Analytics
+## Data & Reporting
 
-- SQL (SQL Server, MySQL, PostgreSQL Basics)
-- Python Automation
-- Power BI Dashboard Development
-- Data Cleaning & Analysis
-- Reporting Automation
+- SQL (SQL Server, MySQL)
+- Data Cleaning & Structuring
+- Reporting & MIS
+- Operational Analytics
 - Data Visualization
-- Business Intelligence
+- Power BI (Learning)
+- Google Sheets Reporting
 
-## Business Analysis
+## Business Analysis & Operations
 
 - Requirement Gathering
 - Process Mapping
@@ -40,18 +40,25 @@ Experienced in translating business requirements into structured solutions by co
 - Business Reporting
 - Stakeholder Coordination
 - Operational Analytics
+- CRM Process Design
 
 ## Automation & Tools
 
 - Google Sheets Advanced Formulas
 - Google Apps Script Automation
-- Google Workspace Administration
-- PowerShell Automation
+- Google Workspace
+- PowerShell
+- Jira
 - WordPress
 - Google Sites
-- Jira
 
-## IT Infrastructure
+## Databases
+
+- SQL Server
+- MySQL
+- PostgreSQL (Learning)
+
+## Enterprise IT
 
 - Microsoft Exchange Server 2016
 - Cisco IronPort
@@ -62,15 +69,15 @@ Experienced in translating business requirements into structured solutions by co
 
 # Professional Experience
 
-## Business Analyst & Data Engineer — CEO’s Office
+## Business Analyst / Business Operations — CEO’s Office
 
 ### SV Incorporation (Real Estate ICP Firm)
 
 **July 2025 – Present**
 
-- Support CEO’s Office with business analysis, operational planning, and data-driven decision-making.
+- Support the CEO’s Office with business analysis, operational planning, reporting, and process improvement.
 - Designed and implemented internal CRM workflow automation using Google Sheets, Google Apps Script, and structured data processes.
-- Built a real estate lead management system covering:
+- Built a real estate lead-management system covering:
   - Lead capture
   - Duplicate detection
   - Lead assignment tracking
@@ -78,9 +85,9 @@ Experienced in translating business requirements into structured solutions by co
   - Remark history tracking
   - Dashboard monitoring
   - Automated notifications
-- Developed reporting frameworks and dashboards for monitoring sales operations and business performance.
-- Automated manual reporting processes using Python, SQL, and Google Workspace tools, improving operational efficiency.
-- Worked with cross-functional teams to identify process gaps and implement scalable solutions.
+- Developed reporting frameworks for monitoring sales operations and business performance.
+- Automated repetitive data-management and reporting workflows using Google Sheets, Apps Script, and SQL.
+- Worked with cross-functional teams to identify process gaps and implement practical solutions.
 - Created business documentation, workflows, and SOPs for internal systems.
 
 ---
@@ -98,10 +105,10 @@ Designed and developed a structured CRM workflow using:
 - Google Sheets
 - Google Apps Script
 - Advanced Google Formulas
-- SQL Concepts
-- Power BI Reporting
+- SQL
+- Power BI (Learning / Reporting Direction)
 
-### Key Features:
+### Key Features
 
 - Centralized Master Lead Database
 - Marketing Lead Cleaning Workflow
@@ -112,10 +119,10 @@ Designed and developed a structured CRM workflow using:
 - Remark History Management
 - CRM Monitoring Dashboard
 
-### Impact:
+### Business Impact
 
-- Reduced manual lead management efforts.
-- Improved sales team visibility.
+- Reduced manual lead-management efforts.
+- Improved sales-team visibility.
 - Created a structured data-driven sales workflow.
 - Enabled management-level monitoring of multiple agents.
 
@@ -130,7 +137,7 @@ Designed and developed a structured CRM workflow using:
 - Managed enterprise email security operations for Oncor using Microsoft Exchange Server 2016.
 - Worked with Cisco IronPort and Menlo Security platforms for secure email communication.
 - Performed message tracking, queue analysis, and troubleshooting activities.
-- Automated repetitive operational tasks using PowerShell and Python.
+- Automated repetitive operational tasks using PowerShell.
 - Collaborated with engineering teams for incident resolution and workflow improvements.
 - Maintained technical documentation and operational procedures.
 
@@ -143,9 +150,9 @@ Designed and developed a structured CRM workflow using:
 **Jan 2023 – April 2024**
 
 - Provided L1/L2 operational support for enterprise messaging infrastructure.
-- Performed mailbox analysis, message flow monitoring, and security validation.
-- Worked on troubleshooting email delivery issues.
-- Created documentation and supported process improvement initiatives.
+- Performed mailbox analysis, message-flow monitoring, and security validation.
+- Worked on troubleshooting email-delivery issues.
+- Created documentation and supported process-improvement initiatives.
 
 ---
 
@@ -168,7 +175,6 @@ Designed and developed a structured CRM workflow using:
 
 Completed: 2021
 
-
 ## B.Tech — Civil Engineering
 
 Completed: 2019
@@ -177,39 +183,39 @@ Completed: 2019
 
 # Projects & Achievements
 
-- Built automated reporting solutions using Python, SQL, and Google Sheets, reducing manual processing efforts significantly.
-- Developed Power BI dashboards for operational analysis and management reporting.
-- Created internal CRM automation workflows for real estate sales operations.
-- Managed enterprise email security systems supporting large-scale business communication.
-- Successfully transitioned from Civil Engineering to IT and Business Analytics through continuous technical learning.
+- Built automated CRM and reporting workflows using Google Sheets, Apps Script, and SQL.
+- Developed a structured lead-management system for real-estate sales operations.
+- Created management reporting workflows for monitoring sales-team activity and lead status.
+- Managed enterprise email-security systems supporting large-scale business communication.
+- Successfully transitioned from Civil Engineering to IT and Business Operations through continuous technical learning.
 
 ---
 
 # Technical Proficiency
 
-## Programming
-
-- Python
-- SQL
-- PowerShell
-
-## Analytics
-
-- Power BI
-- Google Data Studio
-- Advanced Google Sheets
-
-## Databases
+## SQL & Databases
 
 - SQL Server
 - MySQL
 - PostgreSQL (Learning)
 
+## Analytics & Reporting
+
+- Advanced Google Sheets
+- Google Data Studio / Looker Studio
+- Power BI (Learning)
+
+## Automation
+
+- Google Apps Script
+- PowerShell
+- Google Workspace
+
 ## Business Tools
 
 - Jira
-- Google Workspace
 - WordPress
+- Google Sites
 
 ## Enterprise Systems
 
@@ -223,16 +229,17 @@ Completed: 2019
 
 - Business Process Understanding
 - Analytical Problem Solving
-- Technical + Business Bridge Capability
+- Business + Technical Bridge Capability
 - Automation Mindset
+- CRM Workflow Design
 - Strong Documentation Skills
 - Cross-Functional Collaboration
 - Quick Learning Ability
 
 ---
 
-# Declaration
+**Target Career Direction:** Business Operations Analyst | CRM Analyst | Business Automation Analyst | Reporting / MIS Analyst | Business Analyst
 
-I hereby declare that the information provided above is true and correct to the best of my knowledge.
+---
 
 **Mohd Rehan Nafees**
